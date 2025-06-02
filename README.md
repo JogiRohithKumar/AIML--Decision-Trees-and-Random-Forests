@@ -22,7 +22,7 @@ Heart Disease Dataset
 7. Evaluated using cross-validation
 
 ## 🖼 Sample Visualization
-(Screenshot here)
+![Decision Tree](screenshots/tree_visualization.png)
 
 ## 📂 Files
 - `decision_tree_random_forest.ipynb`
